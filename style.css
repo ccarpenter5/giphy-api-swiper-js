@@ -29,3 +29,8 @@ input {
   
 /*   height: 300px; */
 }
+
+.swiper-slide video {
+  object-fit: cover;
+ width: 100%;
+}
